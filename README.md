@@ -9,9 +9,9 @@ O desenvolvimento desta análise busca utilizar diferentes funções de SQL em u
 
 ## Fonte dos dados
 <p align="left">Ainda que todos os dados sejam públicos, optou-se por ocultar parcialmente o número de inscrição</p>
-Os *datasets* encontram-se nos links abaixo:
-<p align="left">Dados do enem: https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados</p> 
-<p align="left">Dados de IDH dos municípios brasileiros: https://www.undp.org/pt/brazil/idhm-munic%C3%ADpios-2010</p> 
+Os datasets encontram-se nos links abaixo:
+<p align="left">- Dados do enem: https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados</p> 
+<p align="left">- Dados de IDH dos municípios brasileiros: https://www.undp.org/pt/brazil/idhm-munic%C3%ADpios-2010</p> 
 
 ## Tecnologias utilizadas
 - Excel

@@ -9,13 +9,14 @@ Todos os dados utlizados são publicos e encontram-se nos links abaixo:
 <p align="left">Dados do enem: https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados</p> 
 <p align="left">Dados de IDH dos municípios brasileiros: https://www.undp.org/pt/brazil/idhm-munic%C3%ADpios-2010</p> 
 
-* [Campeonato Brasileiro de futebol](https://www.kaggle.com/datasets/adaoduque/campeonato-brasileiro-de-futebol)
-
-
 ## Tecnologias Utilizadas
 - Excel
 <p align="left">VBA para realizar webscraping e capturar os dados de IDH</p>
 <p align="left">Gráfico de pizza</p>
+
+- SQL Server Management Studio 19
+<p align="left">T-SQL para encontrar a solução</p>
+
 ## Destaques do Projeto
 ### Divisão do estudo:
 

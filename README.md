@@ -1,20 +1,13 @@
 # Análise do perfil socioeconômico dos participantes do Enem 2022 que obtiveram as maiores e as menores notas de matemática.
 
-<p align="center">
- ![image](https://github.com/2lt-william/notas-enem22/assets/153399456/f1ba661e-ca2c-445f-9c75-935bf3feee88)
-
-</p>
-
 ## Objetivo do Estudo
 Essa é uma análise exploratória dos dados do *dataset* do Campeonato Brasileiro da Série A durante a Era dos Pontos Corridos. O objetivo do estudo foi obter insights sobre variáveis como pontuação, número de vitórias, derrotas e empates, além da distribuição de gols e cartões dessa competição futebolísitca nacional.
 
-**Pode acessar o link abaixo para acessar o projeto completo:**
- - [**Projeto no Google Colab**](https://colab.research.google.com/drive/1sXlmLboty2xJMlC_YGA_uxpQNJGXYA9E?usp=sharing)
-
-É importante ressaltar que a análise de dados é uma ferramenta complementar e que o futebol também envolve fatores intangíveis e imprevisíveis. Afinal, o **'futebol é uma caixinha de surpresas'**.
-
 ## Fonte dos Dados
-Todos os dados usados aqui foram obtidos a partir do [Kaggle](https://www.kaggle.com/). Para esta análise exploratória inicial, serão utilizados três datasets disponibilizados no link abaixo:
+
+Todos os dados utlizados são publicos e encontram-se nos links abaixo:
+Dados do enem: https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados
+Dados de IDH dos municípios brasileiros: https://www.undp.org/pt/brazil/idhm-munic%C3%ADpios-2010
 
 * [Campeonato Brasileiro de futebol](https://www.kaggle.com/datasets/adaoduque/campeonato-brasileiro-de-futebol)
 

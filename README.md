@@ -3,6 +3,7 @@
 ## Objetivo do Estudo
 Essa é uma análise exploratória dos dados do *dataset* MICRODADOS_ENEM_2022. O objetivo do estudo foi obter insights de alguns aspectos socioeconômicos dos participantes a partir do desempenho na prova de matemática.
 <p align="left">Ainda que todos os dados sejam públicos, optou-se por ocultar parcialmente o número de inscrição</p>
+
 ## Fonte dos Dados
 
 Todos os dados utilizados são publicos e encontram-se nos links abaixo:
@@ -15,7 +16,7 @@ Todos os dados utilizados são publicos e encontram-se nos links abaixo:
 <p align="left">Gráfico de pizza</p>
 
 - SQL Server Management Studio 19
-<p align="left">T-SQL para encontrar a solução</p>
+<p align="left">T-SQL para encontrar a solução, criar estatística e mascarar dados de identificação</p>
 
 ## Destaques do Projeto
 ### Divisão do estudo:

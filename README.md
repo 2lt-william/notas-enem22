@@ -42,26 +42,13 @@ Como exemplo, Palmeiras, Atlético-MG e Flamengo, campeões das edições de 202
   <img alt="Gols Times" width="80%" src="https://github.com/HenriqueWF/Serie_A_Campeonato_Brasileiro/assets/86746927/dbc97e01-c49b-4dd3-964b-292f2c2a24a4">
 </p>
 
-### 3. Análise de Cartões
+### 3. Conclusão
 Para essa análise, foi utilizado o dataset denominado df_cartoes. Nele há informações sobre o Campeonato Brasileiro na Era dos Pontos Corridos a partir de 2014.
 
 Abaixo há um gráfico com a média dos clubes que mais receberam cartões vermelhos entre 2014 e 2022. Verificou-se que os clubes com melhor desempenho procuram evitar condutas que levem à expulsão de jogadores, enquanto que os times com menor sucesso tendem a se envolver em situações mais turbulentas, resultando em um maior número de cartões vermelhos.
 <p align="center">
   <img alt="Cartões Vermelhos" width="80%" src="https://github.com/HenriqueWF/Serie_A_Campeonato_Brasileiro/assets/86746927/32d44360-13b3-46dc-93c6-a68ed300efdc">
 </p>
-
-### Bônus - Bar Chart Race
-No estudo, fiz um "Bar Chart Race" que acompanha a evolução dos clubes com base na pontuação de uma temporada específica. Pode verificar o gráfico e alterar o ano no estudo completo. 
-
-Quero aprimorá-lo posteriormente, de modo que apareça todas as temporadas, bem como as rodadas e informações adicionais.
-
-<p align="center">
-  <img alt="Cartões Vermelhos" width="70%" src="https://github.com/HenriqueWF/Serie_A_Campeonato_Brasileiro/assets/86746927/55a4bdce-55af-4a02-9930-b46ec4f42a90">
-</p>
-
-## Meus Artigos Relacionados ao Estudo
- - [**Matplotlib e Storytelling com Dados - Pt. I**](https://medium.com/data-hackers/matplotlib-e-storytelling-com-dados-pt-i-48c289943d60)
- - [**Matplotlib e Storytelling com Dados - Pt. II**](https://medium.com/data-hackers/matplotlib-e-storytelling-com-dados-pt-ii-35e0da269a1e)
 
 ## Contato
 Estou sempre aberto para sugestões e melhorias do trabalho! 

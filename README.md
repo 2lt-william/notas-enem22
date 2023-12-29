@@ -1,12 +1,12 @@
 # Análise do perfil socioeconômico dos participantes do Enem 2022 que obtiveram as maiores e as menores notas de matemática.
 
 ## Objetivo do estudo
-Essa é uma análise exploratória dos dados do *dataset* MICRODADOS_ENEM_2022. O objetivo do estudo foi obter insights de alguns aspectos socioeconômicos dos participantes a partir do desempenho na prova de matemática.
-<p align="left">Ainda que todos os dados sejam públicos, optou-se por ocultar parcialmente o número de inscrição</p>
+Essa é uma análise dos dados do *dataset* MICRODADOS_ENEM_2022. O objetivo do estudo foi obter insights de alguns aspectos socioeconômicos dos participantes a partir do desempenho na prova de matemática.
+O desenvolvimento desta análise busca utilizar diferentes funções de SQL em um só projeto.
 
 ## Fonte dos dados
-
-Todos os dados utilizados são publicos e encontram-se nos links abaixo:
+<p align="left">Ainda que todos os dados sejam públicos, optou-se por ocultar parcialmente o número de inscrição</p>
+Os *datasets* encontram-se nos links abaixo:
 <p align="left">Dados do enem: https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados</p> 
 <p align="left">Dados de IDH dos municípios brasileiros: https://www.undp.org/pt/brazil/idhm-munic%C3%ADpios-2010</p> 
 
@@ -28,9 +28,12 @@ Todos os participantes com status "falta" ou "eliminado" foram removidos da aná
 
 
 ### 2. Passo a passo
+
 - Verificação da maior nota e da menor nota de matemática;
 - Levantamento de todos os participantes que obtiveram a maior e a menor nota;
 - Validação do participante baseada na qualidade dos dados inseridos nas colunas de interesse;
+- Criação da tabela renda_enem, baseada no DICIONÁRIO disponibilizado pelo INEP
+- Captura da tabela IDH com webscraping
 - Criação de métricas;
 - Observação do resultado obtido.
 

@@ -43,6 +43,9 @@ Todos os participantes com status "falta" ou "eliminado" foram removidos da aná
 - Resultado da query para análise da maior nota
 ![image](https://github.com/2lt-william/notas-enem22/assets/153399456/739d3f8a-a9b6-475d-b568-33a1dcba4dfd)
 
+**Gráfico por tipo de administração escolar e participação no grupo de maior e de menor nota**
+![image](https://github.com/2lt-william/notas-enem22/assets/153399456/a323b598-da60-45a2-99d1-a2d1e6867a3b)
+
 
 ## Contato
 Estou sempre aberto para sugestões e melhorias do trabalho! 

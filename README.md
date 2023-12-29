@@ -40,6 +40,11 @@ Todos os participantes com status "falta" ou "eliminado" foram removidos da aná
 ![image](https://github.com/2lt-william/notas-enem22/assets/153399456/ce8646f3-4ec0-4790-ada3-c2e457f2cb2b)
 
 **Para maior nota, nota-se que:**
+- A maior nota foi 985,70
+- 04 participantes alcançaram a maior nota
+- 75% dos participantes possuem renda mensal familiar a partir de R$ 14.554,01
+- 100% dos participantes estudam em capitais
+- Pode-se assumir que o IDH-Educação destes municípios é 0,7, que representa um desenvolvimento médio
 - Resultado da query para análise da maior nota
 ![image](https://github.com/2lt-william/notas-enem22/assets/153399456/739d3f8a-a9b6-475d-b568-33a1dcba4dfd)
 

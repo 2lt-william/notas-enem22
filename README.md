@@ -1,4 +1,6 @@
 # Análise do perfil socioeconômico dos participantes do Enem 2022 que obtiveram as maiores e as menores notas de matemática.
+![image](https://github.com/2lt-william/notas-enem22/assets/153399456/adfc297c-0b69-4c47-b4b1-a6d24002a993)
+
 
 ## Objetivo do estudo
 Essa é uma análise dos dados do *dataset* MICRODADOS_ENEM_2022. O objetivo do estudo foi obter insights de alguns aspectos socioeconômicos dos participantes a partir do desempenho na prova de matemática.

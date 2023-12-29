@@ -6,8 +6,8 @@ Essa é uma análise exploratória dos dados do *dataset* do Campeonato Brasilei
 ## Fonte dos Dados
 
 Todos os dados utlizados são publicos e encontram-se nos links abaixo:
-Dados do enem: https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados
-Dados de IDH dos municípios brasileiros: https://www.undp.org/pt/brazil/idhm-munic%C3%ADpios-2010
+<p align="left">Dados do enem: https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados</p> 
+<p align="left">Dados de IDH dos municípios brasileiros: https://www.undp.org/pt/brazil/idhm-munic%C3%ADpios-2010</p> 
 
 * [Campeonato Brasileiro de futebol](https://www.kaggle.com/datasets/adaoduque/campeonato-brasileiro-de-futebol)
 

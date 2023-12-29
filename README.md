@@ -1,11 +1,11 @@
 # Análise do perfil socioeconômico dos participantes do Enem 2022 que obtiveram as maiores e as menores notas de matemática.
 
 ## Objetivo do Estudo
-Essa é uma análise exploratória dos dados do *dataset* do Campeonato Brasileiro da Série A durante a Era dos Pontos Corridos. O objetivo do estudo foi obter insights sobre variáveis como pontuação, número de vitórias, derrotas e empates, além da distribuição de gols e cartões dessa competição futebolísitca nacional.
-
+Essa é uma análise exploratória dos dados do *dataset* MICRODADOS_ENEM_2022. O objetivo do estudo foi obter insights de alguns aspectos socioeconômicos dos participantes a partir do desempenho na prova de matemática.
+<p align="left">Ainda que todos os dados sejam públicos, optou-se por ocultar parcialmente o número de inscrição</p>
 ## Fonte dos Dados
 
-Todos os dados utlizados são publicos e encontram-se nos links abaixo:
+Todos os dados utilizados são publicos e encontram-se nos links abaixo:
 <p align="left">Dados do enem: https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados</p> 
 <p align="left">Dados de IDH dos municípios brasileiros: https://www.undp.org/pt/brazil/idhm-munic%C3%ADpios-2010</p> 
 

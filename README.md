@@ -19,9 +19,13 @@ Todos os dados utilizados são publicos e encontram-se nos links abaixo:
 <p align="left">T-SQL para encontrar a solução, criar estatística e mascarar dados de identificação</p>
 
 ## Destaques do Projeto
-### Divisão do estudo:
 
-### 1. Análise de Pontos e Desempenho dos Clubes
+### 1. Sobre o desenvolvimento
+Os aspectos socioeconômicos adotados foram: Renda mensal familiar, Dependência administrativa da escola e o IDH-Educação do município da escola do participante.
+Foram analisados todos os participantes com a maior e com a menor nota na prova de matemática.
+Todos os participantes que apresentaram inconsistência nos dados que fazem parte do objetivo deste estudo foram removidos da análise.
+Todos os participantes com status "falta" ou "eliminado" foram removidos da análise.
+
 Criei algumas tabelas para verificar o desempenho de todos os clubes que participaram da Série A do Brasileirão. Como exemplo, abaixo há a "Tabela Comparativa de Vitórias, Empates e Derrotas de Mandantes e Visitantes".
 <p align="center">
   <img alt="Tabela" width="70%" src="https://github.com/HenriqueWF/Serie_A_Campeonato_Brasileiro/assets/86746927/8cb9f71a-6850-45e9-a82e-7be9e624fbc5">

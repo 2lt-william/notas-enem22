@@ -66,4 +66,4 @@ Quero aprimorá-lo posteriormente, de modo que apareça todas as temporadas, bem
 Estou sempre aberto para sugestões e melhorias do trabalho! 
 
 **Me adicione no LinkedIn:**
-** [LinkedIn](https://www.linkedin.com/in/william-oliveira1990/))
+* [LinkedIn](https://www.linkedin.com/in/william-oliveira1990/))

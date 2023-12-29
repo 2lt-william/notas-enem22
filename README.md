@@ -35,7 +35,11 @@ Todos os participantes com status "falta" ou "eliminado" foram removidos da aná
 - Observação do resultado obtido.
 
 ### 3. Conclusão
+
+- Resultado da query para análise da menor nota
 ![image](https://github.com/2lt-william/notas-enem22/assets/153399456/ce8646f3-4ec0-4790-ada3-c2e457f2cb2b)
+
+- Resultado da query para análise da maior nota
 ![image](https://github.com/2lt-william/notas-enem22/assets/153399456/739d3f8a-a9b6-475d-b568-33a1dcba4dfd)
 
 

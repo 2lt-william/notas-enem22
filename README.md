@@ -38,10 +38,9 @@ Todos os participantes com status "falta" ou "eliminado" foram removidos da aná
 **Para menor nota, nota-se que:**
 - A menor nota foi 336,80
 - 28 participantes obtiveram a menor nota
-- % dos participantes possuem renda mensal familiar abaixo de
+- 42,85% dos participantes possuem renda mensal familiar abaixo de R$ 1212,00
 - 32,14% dos participantes estudam em capitais
 - 17,85% dos participantes estudam em municípios com IDH-Educação abaixo de 0,5, que é considerado baixo.
-- 60,71% dos participantes estudam em municípios com IDH-Educação abaixo de 0,7, que é considerado médio
 - Resultado da query para análise da menor nota
 ![image](https://github.com/2lt-william/notas-enem22/assets/153399456/ce8646f3-4ec0-4790-ada3-c2e457f2cb2b)
 

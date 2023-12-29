@@ -12,7 +12,7 @@ Os *datasets* encontram-se nos links abaixo:
 
 ## Tecnologias utilizadas
 - Excel
-<p align="left">VBA para realizar *webscraping* e capturar os dados de IDH</p>
+<p align="left">VBA para realizar **webscraping** e capturar os dados de IDH</p>
 <p align="left">Gráfico de pizza</p>
 
 - SQL Server Management Studio 19

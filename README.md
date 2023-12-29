@@ -34,8 +34,8 @@ Todos os participantes com status "falta" ou "eliminado" foram removidos da aná
 - Criação de métricas;
 - Observação do resultado obtido.
 
-### 3. Conclusão
-**Para menor nota, nota-se que:**
+### 3. Fatos observados
+**Para menor nota, tem-se que:**
 - A menor nota foi 336,80
 - 28 participantes obtiveram a menor nota
 - 42,85% dos participantes possuem renda mensal familiar abaixo de R$ 1212,00
@@ -44,10 +44,11 @@ Todos os participantes com status "falta" ou "eliminado" foram removidos da aná
 - Resultado da query para análise da menor nota
 ![image](https://github.com/2lt-william/notas-enem22/assets/153399456/ce8646f3-4ec0-4790-ada3-c2e457f2cb2b)
 
-**Para maior nota, nota-se que:**
+**Para maior nota, tem-se que:**
 - A maior nota foi 985,70
 - 04 participantes alcançaram a maior nota
 - 75% dos participantes possuem renda mensal familiar a partir de R$ 14.554,01
+- 100% dos participantes são de escolas particulares
 - 100% dos participantes estudam em capitais
 - 100% destes municípios tem IDH-Educação muito próximo ou igual a 0,7, que representa um desenvolvimento médio
 - Resultado da query para análise da maior nota

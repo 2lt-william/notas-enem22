@@ -34,21 +34,8 @@ Todos os participantes com status "falta" ou "eliminado" foram removidos da aná
 - Criação de métricas;
 - Observação do resultado obtido.
 
-Para essa análise, foi utilizado o dataset denominado df_gols. Nele há informações sobre o Campeonato Brasileiro na Era dos Pontos Corridos a partir de 2014.
-
-Como exemplo, Palmeiras, Atlético-MG e Flamengo, campeões das edições de 2022, 2021 e 2020, respectivamente, são os clubes que mais balançaram as redes entre 2014 e 2022.
-<p align="center">
-  <img alt="Gols Times" width="80%" src="https://github.com/HenriqueWF/Serie_A_Campeonato_Brasileiro/assets/86746927/dbc97e01-c49b-4dd3-964b-292f2c2a24a4">
-</p>
-
 ### 3. Conclusão
-Para essa análise, foi utilizado o dataset denominado df_cartoes. Nele há informações sobre o Campeonato Brasileiro na Era dos Pontos Corridos a partir de 2014.
 
-<p align="center">
-  <img alt="Cartões Vermelhos" width="80%" src="https://github.com/HenriqueWF/Serie_A_Campeonato_Brasileiro/assets/86746927/32d44360-13b3-46dc-93c6-a68ed300efdc">
-</p>
-
-## Contato
 Estou sempre aberto para sugestões e melhorias do trabalho! 
 
 **Me adicione nas redes sociais:**

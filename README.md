@@ -1,5 +1,6 @@
 # Análise do perfil socioeconômico dos participantes do Enem 2022 que obtiveram as maiores e as menores notas de matemática
-<p align="center">![image](https://github.com/2lt-william/notas-enem22/assets/153399456/adfc297c-0b69-4c47-b4b1-a6d24002a993)
+<p align="center">![image](https://github.com/2lt-william/notas-enem22/assets/153399456/b190529e-7831-4fc2-90fa-4b4e6b5092cf)
+
 </p>
 
 ## Objetivo do estudo

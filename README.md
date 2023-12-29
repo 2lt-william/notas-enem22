@@ -35,6 +35,8 @@ Todos os participantes com status "falta" ou "eliminado" foram removidos da aná
 - Observação do resultado obtido.
 
 ### 3. Conclusão
+![image](https://github.com/2lt-william/notas-enem22/assets/153399456/1bf90f1e-fa35-4ed4-81cb-d6dba5e6f21b)
+
 
 ## Contato
 Estou sempre aberto para sugestões e melhorias do trabalho! 

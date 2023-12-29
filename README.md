@@ -36,6 +36,7 @@ Todos os participantes com status "falta" ou "eliminado" foram removidos da aná
 
 ### 3. Conclusão
 
+## Contato
 Estou sempre aberto para sugestões e melhorias do trabalho! 
 
 **Me adicione nas redes sociais:**

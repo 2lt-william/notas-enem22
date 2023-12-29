@@ -39,6 +39,7 @@ Todos os participantes com status "falta" ou "eliminado" foram removidos da aná
 - A menor nota foi 336,80
 - 28 participantes obtiveram a menor nota
 - 42,85% dos participantes possuem renda mensal familiar abaixo de R$ 1212,00
+- 89,29% dos participantes são de escolas estaduais
 - 32,14% dos participantes estudam em capitais
 - 17,85% dos participantes estudam em municípios com IDH-Educação abaixo de 0,5, que é considerado baixo.
 - Resultado da query para análise da menor nota

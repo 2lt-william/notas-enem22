@@ -1,6 +1,4 @@
-Análise do perfil socioeconômico dos participantes do Enem 2022 que obtiveram as maiores e as menores notas.
-[![author](https://img.shields.io/badge/author-henriquewfranco-red.svg)]([https://www.linkedin.com/in/henriquewfranco/](https://www.linkedin.com/in/william-oliveira1990/)) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
-# Análise de Dados da Era dos Pontos Corridos da Série A do Campeonato Brasileiro
+# Análise do perfil socioeconômico dos participantes do Enem 2022 que obtiveram as maiores e as menores notas de matemática.
 
 <p align="center">
   <img alt="Série A" width="80%" src="https://publisher-publish.s3.eu-central-1.amazonaws.com/pb-brasil247/swp/jtjeq9/media/20210924080952_15577685bb1360072c42e868e6fa602b5c2d2fd9e6e968d642648607b828b6c2.jpg">

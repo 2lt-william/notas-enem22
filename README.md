@@ -65,8 +65,5 @@ Quero aprimorá-lo posteriormente, de modo que apareça todas as temporadas, bem
 ## Contato
 Estou sempre aberto para sugestões e melhorias do trabalho! 
 
-**Links para me acharem:**
-* [LinkedIn](https://www.linkedin.com/in/henriquewfranco/)
-* [Kaggle](https://www.kaggle.com/henriquewfranco)
-* [Medium](https://medium.com/@henriquewfranco)
-* [GitHub](https://github.com/HenriqueWF)
+**Me adicione no LinkedIn:**
+* [LinkedIn](https://www.linkedin.com/in/henriquewfranco/](https://www.linkedin.com/in/william-oliveira1990/)https://www.linkedin.com/in/william-oliveira1990/)

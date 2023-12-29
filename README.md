@@ -40,7 +40,8 @@ Todos os participantes com status "falta" ou "eliminado" foram removidos da aná
 - 28 participantes obtiveram a menor nota
 - % dos participantes possuem renda mensal familiar abaixo de
 - 32,14% dos participantes estudam em capitais
-- 
+- 17,85% dos participantes estudam em municípios com IDH-Educação abaixo de 0,5, que é considerado baixo.
+- 60,71% dos participantes estudam em municípios com IDH-Educação abaixo de 0,7, que é considerado médio
 - Resultado da query para análise da menor nota
 ![image](https://github.com/2lt-william/notas-enem22/assets/153399456/ce8646f3-4ec0-4790-ada3-c2e457f2cb2b)
 
@@ -49,7 +50,7 @@ Todos os participantes com status "falta" ou "eliminado" foram removidos da aná
 - 04 participantes alcançaram a maior nota
 - 75% dos participantes possuem renda mensal familiar a partir de R$ 14.554,01
 - 100% dos participantes estudam em capitais
-- 100% destes municípios tem IDH-Educação igual a 0,7, que representa um desenvolvimento médio
+- 100% destes municípios tem IDH-Educação muito próximo ou igual a 0,7, que representa um desenvolvimento médio
 - Resultado da query para análise da maior nota
 ![image](https://github.com/2lt-william/notas-enem22/assets/153399456/739d3f8a-a9b6-475d-b568-33a1dcba4dfd)
 

@@ -40,6 +40,7 @@ Todos os participantes com status "falta" ou "eliminado" foram removidos da aná
 - Criação de métricas;
 - Observação do resultado obtido.
 - Print de uma das Queries:
+  
 ![image](https://github.com/2lt-william/notas-enem22/assets/153399456/02ed4e78-87db-414e-9aa5-e8fec579253a)
 
 

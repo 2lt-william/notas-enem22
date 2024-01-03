@@ -1,0 +1,17 @@
+{
+	"name": "enem_raw_data",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "SqlServer1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "SqlServerTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "MICRODADOS_ENEM_2022"
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

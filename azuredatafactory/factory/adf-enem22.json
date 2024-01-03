@@ -1,0 +1,9 @@
+{
+	"name": "adf-enem22",
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f99e791d-e983-44fc-b3de-2e841554f052",
+		"tenantId": "72e58703-910c-4065-a98f-2c01ccb5c397"
+	}
+}

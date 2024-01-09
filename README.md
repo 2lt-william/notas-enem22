@@ -5,7 +5,7 @@
 
 ## Objetivo do estudo
 Essa é uma análise dos dados do *dataset* MICRODADOS_ENEM_2022. O objetivo do estudo foi obter insights de alguns aspectos socioeconômicos dos participantes a partir do desempenho na prova de matemática.
-O desenvolvimento desta análise busca utilizar diferentes funções de SQL em um só projeto.
+O desenvolvimento desta análise busca utilizar diferentes funções de SQL e explorar ferramentas da Microsoft Azure em um só projeto.
 
 ## Fonte dos dados
 <p align="left">Ainda que todos os dados sejam públicos, optou-se por ocultar parcialmente o número de inscrição</p>
